@@ -55,7 +55,11 @@ Embedded methods are iterative in the sense that takes care of each iteration of
   - If both features are related, take 1
 
 3. Using Information Gain for Classification:
+
 4. Using Information Gain for Regression:
+
 5. ChiSquare test for Feature Selection:
+
 6. Select KBest Algorithm:
+
 7. Feature Importance with ExtraTreeClssifier: 
