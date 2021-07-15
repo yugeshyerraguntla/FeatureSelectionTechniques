@@ -62,4 +62,12 @@ Embedded methods are iterative in the sense that takes care of each iteration of
 
 6. Select KBest Algorithm:
 
-7. Feature Importance with ExtraTreeClssifier: 
+7. Feature Importance with ExtraTreeClassifier: 
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
+
